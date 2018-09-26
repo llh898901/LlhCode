@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<modules >
+  <!--isRun:跑数控制，1开启，0关闭-->
+  <module isRun ="1" name ="appKey1">
+    <appKey>587547794ad1567b03001eec</appKey>
+    <userKey>e3195d1988d8a72e21431743e703b106</userKey>
+    <secretKey>a253ca99297b620d47aa2075f6fa4dfc</secretKey>
+    <!--isRun:补数控制，1开启，0关闭-->
+    <manual isRun="1">
+      <startDate>2018-09-02</startDate>
+      <endDate>2018-09-02</endDate>
+    </manual>
+  </module>
+  
+  <module isRun ="0" name ="appKey1">
+    <appKey>587547794ad1567b03001eec</appKey>
+    <userKey>e3195d1988d8a72e21431743e703b106</userKey>
+    <secretKey>a253ca99297b620d47aa2075f6fa4dfc</secretKey>
+    <manual isRun="1">
+      <startDate>2018-09-03</startDate>
+      <endDate>2018-09-05</endDate>
+    </manual>
+  </module>
+  
+  </modules>
