@@ -1,0 +1,9 @@
+E:\Code\生产者_消费者\生产者_消费者\bin\Debug\生产者_消费者.exe.config
+E:\Code\生产者_消费者\生产者_消费者\bin\Debug\生产者_消费者.exe
+E:\Code\生产者_消费者\生产者_消费者\bin\Debug\生产者_消费者.pdb
+E:\Code\生产者_消费者\生产者_消费者\bin\Debug\Newtonsoft.Json.dll
+E:\Code\生产者_消费者\生产者_消费者\obj\Debug\生产者_消费者.csprojAssemblyReference.cache
+E:\Code\生产者_消费者\生产者_消费者\obj\Debug\生产者_消费者.csproj.CoreCompileInputs.cache
+E:\Code\生产者_消费者\生产者_消费者\obj\Debug\生产者_消费者.csproj.CopyComplete
+E:\Code\生产者_消费者\生产者_消费者\obj\Debug\生产者_消费者.exe
+E:\Code\生产者_消费者\生产者_消费者\obj\Debug\生产者_消费者.pdb

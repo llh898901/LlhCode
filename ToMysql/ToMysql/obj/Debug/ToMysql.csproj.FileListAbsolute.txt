@@ -1,0 +1,12 @@
+E:\Code\ToMysql\ToMysql\bin\Debug\ToMysql.exe.config
+E:\Code\ToMysql\ToMysql\bin\Debug\ToMysql.exe
+E:\Code\ToMysql\ToMysql\bin\Debug\ToMysql.pdb
+E:\Code\ToMysql\ToMysql\bin\Debug\Google.Protobuf.dll
+E:\Code\ToMysql\ToMysql\bin\Debug\MySql.Data.dll
+E:\Code\ToMysql\ToMysql\bin\Debug\Google.Protobuf.xml
+E:\Code\ToMysql\ToMysql\bin\Debug\MySql.Data.xml
+E:\Code\ToMysql\ToMysql\obj\Debug\ToMysql.csprojAssemblyReference.cache
+E:\Code\ToMysql\ToMysql\obj\Debug\ToMysql.csproj.CoreCompileInputs.cache
+E:\Code\ToMysql\ToMysql\obj\Debug\ToMysql.csproj.CopyComplete
+E:\Code\ToMysql\ToMysql\obj\Debug\ToMysql.exe
+E:\Code\ToMysql\ToMysql\obj\Debug\ToMysql.pdb
