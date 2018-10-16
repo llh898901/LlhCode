@@ -1,0 +1,16 @@
+E:\Code\Tender\Tender\bin\Release\Tender.exe.config
+E:\Code\Tender\Tender\bin\Release\Tender.exe
+E:\Code\Tender\Tender\bin\Release\Tender.pdb
+E:\Code\Tender\Tender\bin\Release\Dapper.dll
+E:\Code\Tender\Tender\bin\Release\Dos.ORM.dll
+E:\Code\Tender\Tender\bin\Release\lcpi.data.oledb.net4_6.dll
+E:\Code\Tender\Tender\bin\Release\lcpi.lib.net4_6.dll
+E:\Code\Tender\Tender\bin\Release\Dapper.xml
+E:\Code\Tender\Tender\bin\Release\lcpi.data.oledb.net4_6.pdb
+E:\Code\Tender\Tender\bin\Release\lcpi.lib.net4_6.pdb
+E:\Code\Tender\Tender\bin\Release\ru\lcpi.data.oledb.net4_6.resources.dll
+E:\Code\Tender\Tender\bin\Release\ru\lcpi.lib.net4_6.resources.dll
+E:\Code\Tender\Tender\obj\Release\Tender.csproj.CoreCompileInputs.cache
+E:\Code\Tender\Tender\obj\Release\Tender.csproj.CopyComplete
+E:\Code\Tender\Tender\obj\Release\Tender.exe
+E:\Code\Tender\Tender\obj\Release\Tender.pdb

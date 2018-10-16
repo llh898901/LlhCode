@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<modules >
+  <!--isRun:跑数控制，1开启，0关闭-->
+  <module isRun ="1" name ="VR消防教育安全">
+    <!--isRun:补数控制，1开启，0关闭-->
+    <manual isRun="0">
+      <startDate>2018-10-01</startDate>
+      <endDate>2018-10-11</endDate>
+    </manual>
+  </module>
+
+  <!--isRun:跑数控制，1开启，0关闭-->
+  <module isRun ="1" name ="国家教育大数据平台">
+    <!--isRun:补数控制，1开启，0关闭-->
+    <manual isRun="0">
+      <startDate>2018-10-01</startDate>
+      <endDate>2018-10-11</endDate>
+    </manual>
+  </module>
+
+  <!--isRun:跑数控制，1开启，0关闭-->
+  <module isRun ="1" name ="VR小镇及体验中心">
+    <!--isRun:补数控制，1开启，0关闭-->
+    <manual isRun="0">
+      <startDate>2018-10-11</startDate>
+      <endDate>2018-10-14</endDate>
+    </manual>
+  </module>
+</modules>
