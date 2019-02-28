@@ -15,3 +15,6 @@ E:\Code\Tender\Tender\bin\Debug\lcpi.lib.net4_6.pdb
 E:\Code\Tender\Tender\bin\Debug\ru\lcpi.data.oledb.net4_6.resources.dll
 E:\Code\Tender\Tender\bin\Debug\ru\lcpi.lib.net4_6.resources.dll
 E:\Code\Tender\Tender\obj\Debug\Tender.csproj.CopyComplete
+E:\Code\Tender\Tender\bin\Debug\HtmlAgilityPack.dll
+E:\Code\Tender\Tender\bin\Debug\HtmlAgilityPack.pdb
+E:\Code\Tender\Tender\bin\Debug\HtmlAgilityPack.xml

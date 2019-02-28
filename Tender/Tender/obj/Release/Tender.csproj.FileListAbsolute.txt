@@ -14,3 +14,7 @@ E:\Code\Tender\Tender\obj\Release\Tender.csproj.CoreCompileInputs.cache
 E:\Code\Tender\Tender\obj\Release\Tender.csproj.CopyComplete
 E:\Code\Tender\Tender\obj\Release\Tender.exe
 E:\Code\Tender\Tender\obj\Release\Tender.pdb
+E:\Code\Tender\Tender\bin\Release\HtmlAgilityPack.dll
+E:\Code\Tender\Tender\bin\Release\HtmlAgilityPack.pdb
+E:\Code\Tender\Tender\bin\Release\HtmlAgilityPack.xml
+E:\Code\Tender\Tender\obj\Release\Tender.csprojAssemblyReference.cache

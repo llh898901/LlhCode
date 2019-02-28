@@ -39,6 +39,9 @@
     <Reference Include="Dos.ORM, Version=1.15.0.0, Culture=neutral, processorArchitecture=MSIL">
       <HintPath>..\packages\Dos.ORM.1.15.0\lib\net40\Dos.ORM.dll</HintPath>
     </Reference>
+    <Reference Include="HtmlAgilityPack, Version=1.8.14.0, Culture=neutral, PublicKeyToken=bd319b19eaf3b43a, processorArchitecture=MSIL">
+      <HintPath>..\packages\HtmlAgilityPack.1.8.14\lib\Net45\HtmlAgilityPack.dll</HintPath>
+    </Reference>
     <Reference Include="lcpi.data.oledb.net4_6, Version=1.7.0.3395, Culture=neutral, PublicKeyToken=ff716095e8002e7e, processorArchitecture=MSIL">
       <HintPath>..\packages\lcpi.data.oledb.1.7.0.3395\lib\net46\lcpi.data.oledb.net4_6.dll</HintPath>
     </Reference>
@@ -59,18 +62,21 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="ConfigHelper.cs" />
+    <Compile Include="Common\ConfigHelper.cs" />
     <Compile Include="DB.cs" />
+    <Compile Include="Common\DosHelper.cs" />
     <Compile Include="Model\Bid.cs" />
     <Compile Include="Model\ETLStatus.cs" />
     <Compile Include="Model\TaskModule.cs" />
+    <Compile Include="Model\tenant_extend_data.cs" />
     <Compile Include="Model\Tender_Setting.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Results.cs" />
     <Compile Include="Search.cs" />
     <Compile Include="Model\Tender.cs" />
-    <Compile Include="TenderHelper.cs" />
+    <Compile Include="Common\TenderHelper.cs" />
+    <Compile Include="Tool\HiveImport.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
@@ -81,5 +87,6 @@
       <SubType>Designer</SubType>
     </Content>
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
