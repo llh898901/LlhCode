@@ -23,9 +23,9 @@ namespace Tender
             {
                 if (list == null || list.Count == 0)
                     return;
-                if (propertyName==null)
+                if (propertyName == null)
                 {
-                    propertyName = typeof(T).GetProperties().ToList().Select(o=>o.Name).ToArray();
+                    propertyName = typeof(T).GetProperties().ToList().Select(o => o.Name).ToArray();
                 }
                 if (string.IsNullOrEmpty(tableName))
                 {
@@ -88,7 +88,7 @@ namespace Tender
             DataTable result = new DataTable();
             if (list.Count > 0)
             {
-                PropertyInfo[] propertys = list[0].GetType().GetProperties();
+                PropertyInfo[] propertys = list[0].GetType().GetProperties().Where(o => o.Name != "_AutoID_").ToArray();
                 foreach (PropertyInfo pi in propertys)
                 {
                     if (propertyNameList.Count == 0)

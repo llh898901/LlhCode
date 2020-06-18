@@ -5,8 +5,6 @@ VisualStudioVersion = 15.0.28010.2003
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tender", "Tender\Tender.csproj", "{33231722-D516-4EF2-9F4A-9A6EF7357C5C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dos.ORM.Extension", "..\MyGit\LlhCode\Dos.ORM.Extension\Dos.ORM.Extension.csproj", "{76B55C7C-ED08-4F73-8481-9EB740739057}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,10 +15,6 @@ Global
 		{33231722-D516-4EF2-9F4A-9A6EF7357C5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{33231722-D516-4EF2-9F4A-9A6EF7357C5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{33231722-D516-4EF2-9F4A-9A6EF7357C5C}.Release|Any CPU.Build.0 = Release|Any CPU
-		{76B55C7C-ED08-4F73-8481-9EB740739057}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{76B55C7C-ED08-4F73-8481-9EB740739057}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{76B55C7C-ED08-4F73-8481-9EB740739057}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{76B55C7C-ED08-4F73-8481-9EB740739057}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

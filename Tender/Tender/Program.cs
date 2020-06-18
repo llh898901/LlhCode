@@ -28,7 +28,13 @@ namespace Tender
             //HiveImport hiveImport = new HiveImport();
             //hiveImport.Import_tenant_extend_data();
 
+            //正则表达式解析
+            //RegexFiles regexFiles = new RegexFiles();
+            //regexFiles.Test();
 
+            //H5log解析
+            H5Import h5Import = new H5Import();
+            h5Import.ImportSpend();
         }
     }
 }

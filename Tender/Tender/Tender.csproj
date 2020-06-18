@@ -33,6 +33,9 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="AutoMapper, Version=8.0.0.0, Culture=neutral, PublicKeyToken=be96cd2c38ef1005, processorArchitecture=MSIL">
+      <HintPath>..\packages\AutoMapper.8.0.0\lib\net461\AutoMapper.dll</HintPath>
+    </Reference>
     <Reference Include="Dapper, Version=1.50.5.0, Culture=neutral, processorArchitecture=MSIL">
       <HintPath>..\packages\Dapper.1.50.5\lib\net451\Dapper.dll</HintPath>
     </Reference>
@@ -52,6 +55,9 @@
     <Reference Include="System.Configuration" />
     <Reference Include="System.Core" />
     <Reference Include="System.Data.OracleClient" />
+    <Reference Include="System.ValueTuple, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.ValueTuple.4.5.0\lib\net461\System.ValueTuple.dll</HintPath>
+    </Reference>
     <Reference Include="System.Web" />
     <Reference Include="System.Web.Extensions" />
     <Reference Include="System.Xml.Linq" />
@@ -66,7 +72,18 @@
     <Compile Include="DB.cs" />
     <Compile Include="Common\DosHelper.cs" />
     <Compile Include="Model\Bid.cs" />
+    <Compile Include="Model\ChargeJsonModel.cs" />
+    <Compile Include="Model\ConsumeJsonModel.cs" />
     <Compile Include="Model\ETLStatus.cs" />
+    <Compile Include="Model\EventJsonModel.cs" />
+    <Compile Include="Model\H5_Charge_201903.cs" />
+    <Compile Include="Model\H5_Consume_201903.cs" />
+    <Compile Include="Model\H5_Event_201903.cs" />
+    <Compile Include="Model\H5_Login_201903.cs" />
+    <Compile Include="Model\H5_Online_201903.cs" />
+    <Compile Include="Model\H5_spend.cs" />
+    <Compile Include="Model\LoginJsonModel.cs" />
+    <Compile Include="Model\OnlineJsonModel.cs" />
     <Compile Include="Model\TaskModule.cs" />
     <Compile Include="Model\tenant_extend_data.cs" />
     <Compile Include="Model\Tender_Setting.cs" />
@@ -76,7 +93,9 @@
     <Compile Include="Search.cs" />
     <Compile Include="Model\Tender.cs" />
     <Compile Include="Common\TenderHelper.cs" />
+    <Compile Include="Tool\H5Import.cs" />
     <Compile Include="Tool\HiveImport.cs" />
+    <Compile Include="Tool\RegexFiles.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
